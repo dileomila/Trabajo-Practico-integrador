@@ -1,0 +1,44 @@
+#Ajuste {   
+    padding-left: 5px; 
+    padding-right: 5px; 
+    padding-bottom: 1px; 
+    padding-top: 1px; 
+}
+/* .imagenytexto {
+    width: fit-content;
+    height: 800px;
+    background: linear-gradient(to right, rgb(0 0 0 / .5), rgb(0 0 0 / .5)),url(./imagenes ej bootstrap/ba1.jpg);
+    background-position: bottom right;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+ } */
+
+ /* #imagenytexto {
+    background-image:"./imagenes ej bootstrap/ba1.jpg" ;
+ } */
+#imagenes {
+    padding-left: 15%;
+    padding-right: 15%;
+}
+#margenn{
+    padding-top: 10px;
+}
+#subrayado {
+    text-decoration: underline dotted;
+}
+ #formulario {
+    text-align: center;
+    padding-left: 22%;
+    padding-right: 22%;
+ }
+#texto1{
+    padding-right: 22%;
+}
+ #footer {
+    Background: linear-gradient(to right,  #12344b, #1b4f72);
+    /* text-align: center; */
+    color: aliceblue; 
+
+ }
+
